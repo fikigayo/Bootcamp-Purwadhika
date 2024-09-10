@@ -1,1 +1,1 @@
-# Capstone-Project-Purwadhika
+# Repository ini berisi tentang materi dan latihan
