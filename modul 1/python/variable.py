@@ -1,0 +1,2 @@
+nama = 'Fiki'
+print(nama)
